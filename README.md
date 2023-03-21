@@ -2,7 +2,7 @@
 
 Plugin List Display is an ExtendScript project for Adobe After Effects that lists all plugins in use, including built-in and 3rd-party plugins, and displays them in a dockable UI panel.
 
-![ezgif-3-b1d87639ee](https://user-images.githubusercontent.com/57370896/226707145-50dc40bd-9584-4684-addb-b01faab4d1b1.gif)
+![hgdxsfghfddfghngndfb](https://user-images.githubusercontent.com/57370896/226710169-fedc70cd-82a9-44f4-8704-14e818d262c6.gif)
 
 ## Features
 

@@ -12,8 +12,8 @@ Plugin List Display is an ExtendScript project for Adobe After Effects that list
 
 ## Installation
 
-1. Download the script file `redact.jsx`.
-2. Open After Effects. Go to `File` > `Scripts` > `Install ScriptUI Panel...` then select the `redact.jsx` file.
+1. Download the script file `ListThirdPartyPlugins.jsx`.
+2. Open After Effects. Go to `File` > `Scripts` > `Install ScriptUI Panel...` then select the `ListThirdPartyPlugins.jsx` file.
 3. Restart After Effects.
 
 ## Usage
